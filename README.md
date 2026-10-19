@@ -4,7 +4,7 @@ A synthetic revenue-management workbook built to demonstrate the analysis a hote
 
 **Data:** Fully synthetic — one year (Jan–Dec 2025) of daily bookings for a fictional 300-room city-centre hotel ("Meridian City Hotel"). No real property, guest, or transaction data is used anywhere in this workbook.
 
-## The business questions
+## The business questions :-
 
 - What's our occupancy, ADR and RevPAR — daily, weekly, monthly?
 - Which segments and channels actually drive revenue, versus just volume?
